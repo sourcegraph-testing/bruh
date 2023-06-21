@@ -4,6 +4,6 @@ pub fn main() void {
     std.log.info("hi", .{});
 }
 
-pub const YassPleaseWork = struct {
+pub const YassPleaseWorkAAA = struct {
     slay: bool,
 };
